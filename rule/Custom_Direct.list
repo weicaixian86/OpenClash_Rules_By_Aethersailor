@@ -86,14 +86,16 @@ DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,epg.aptv.app
 DOMAIN-SUFFIX,gdcucc.v1.mk
-# Bilibili 港澳台
-DOMAIN-SUFFIX,bilibili.tv
 
 # 游戏类规则
 # GoLink 加速器
 DOMAIN-SUFFIX,golinkapi.com
 # 百炼英雄
 DOMAIN-SUFFIX,forevernine.com
+# Watt Toolkit
+DOMAIN-SUFFIX,rmbgame.net
+# steamcommunity 302
+DOMAIN-SUFFIX,steam302.xyz 
 
 # 冷门国内域名
 # 以下是准备向 GeoSite 提交的国内冷门域名，收录后会删除对应内容
@@ -101,7 +103,7 @@ DOMAIN-SUFFIX,forevernine.com
 # 以下域名待提交 GeoSite
 
 # 以下域名已提交 GeoSite
-DOMAIN-SUFFIX,cdkeynogap.com
+DOMAIN-SUFFIX,megawords.cc
 
 # 以下域名已被 GeoSite 收录
 # 智慧笑联
@@ -123,5 +125,6 @@ DOMAIN-SUFFIX,cdkeynogap.com
 #DOMAIN-SUFFIX,raining.top
 #DOMAIN-SUFFIX,giecds.com
 #DOMAIN-SUFFIX,mashangfangxin.com
+#DOMAIN-SUFFIX,cdkeynogap.com
 
 # 更多已被收录的域名，此处未做保留
